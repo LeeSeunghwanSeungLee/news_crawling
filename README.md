@@ -1,14 +1,14 @@
 # news_crawling
 -------
-I make this repository to scrape and make use of NLP.
+뉴스기사를 스크랩하고, 해당 뉴스 내용을 자동으로 분류 및 요약 할 수 있는 프로그램을 위한 리포지토리입니다.
 
-There're couples of steps to finish this project
+현재 개발 진행중이고, 단계는 다음과 같습니다.
 
-1. crawl news material in google, naver, daum, bing...
+> 1. 뉴스기사 크롤링 클래스, DB 저장소 확정 및 배포
 
-2. write datasets in excel sheet
+> 2. NLP 를 이용한 분류 작업 진행
 
-3. ...and so on
+> 3. 주요내용 요약 알고리즘 적용
 
 ## 패키지 버전
 --------
